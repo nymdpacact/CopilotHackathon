@@ -39,7 +39,7 @@ If you still do not have an active Copilot license, a 30 day trial can be reques
 
 ### Work with GitHub Codespaces
 
-Environment is already configured to work with Github Codespaces, you can find the configuration files in the `.devcontainer` folder.
+Codespaces is a pre-configured development environmnet hosted in Azure with VS Code in the browser as the editor. All the languages, dependencies, frameworks and tools needed for this workshop should come pre-installed and readty to go.
 
 To start programming just start a new codespace and you are ready to go, don't need to install anything.
 
@@ -74,7 +74,7 @@ Install the Copilot Extension for you IDE:
 ### Tips
 
 - use multi-line comments for additional details for Code Complete
-- be explicit with your requests
+- be explicit with your requests ([see here for some prompt engineering tips](https://docs.github.com/en/enterprise-cloud@latest/copilot/using-github-copilot/copilot-chat/prompt-engineering-for-copilot-chat))
 - keep relevant files open in tabs
 - copy and paste terminal output when chatting
 - use slash commands like @workspace and @terminal to include additional context (type /help to get a list)
