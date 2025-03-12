@@ -5,8 +5,7 @@ Demo project for running labs to evaluate Copilot viability
 - [Goal](#goal)
 - [Pre-requisites](#pre-requisites)
 - [Work with Github Codespaces](#work-with-github-codespaces)
-- [Work locally](#work-locally)
-- [Instructions](#instructions)
+- [Instructions](#labs-instructions)
 - [Quick Links](#quick-links)
 
 ## Goal
@@ -26,6 +25,11 @@ Remember:
 - Press **Ctrl + Enter**, to see more suggestions.
 - Use Copilot chat to support your learning and development.
 - Press **Ctrl + i** to start Copilot chat inline within your code. 
+
+### Proctors
+- Rob (dotnet, springboot)
+- Venkat (python, jupyter)
+- Kevin (C++, Node)
 
 ## Pre-requisites
 
@@ -48,48 +52,6 @@ Install the Copilot Extension for you IDE:
 - [Visual Studio 2022 Copilot Chat Extension](https://learn.microsoft.com/en-us/visualstudio/ide/visual-studio-github-copilot-chat?view=vs-2022)
 - [JetBrains Copilot Extension](https://docs.github.com/en/copilot/using-github-copilot/getting-code-suggestions-in-your-ide-with-github-copilot?tool=jetbrains)
 
-### Install Copilot CLI
-
-Follow the instructions for your operating system:
-- [Copilot CLI](https://github.com/cli/cli#installation)
-
-### Work locally
-
-**VisualStudio Code**
-
-https://code.visualstudio.com/
-
-**Install Docker**
-
-https://docs.docker.com/engine/install/
-
-**For Nodejs**
-
-- [Install Node and npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
-- Install mocha: 
-
-Run:
-
-``` bash
- npm install --global mocha
- npm install axios
-```
-
-**For .NET**
-
-[Install .Net](https://dotnet.microsoft.com/download)
-
-**For Java**
-
-- [Install Java](https://learn.microsoft.com/en-us/java/openjdk/install)
-- [Install Maven](https://maven.apache.org/install.html)
-
-**For Python**
-- [Install Python](https://www.python.org/downloads/)
-
-**For C++**
-- [Install cmake](https://cmake.org/download/)
-
 ## Labs instructions
 
 - [Node Server](./exercisefiles/node/README.md)
@@ -109,7 +71,9 @@ Run:
 - [Behavior Driven Development (BDD) challenge](./challenges/bdd/README.md)
 - [Analysis cryptocurrency market](./challenges/cryptoanalisis/crypto.md)
 
-## Quick Links 
+## Quick Links
+
+1. [Lots of Getting Started Resources](https://github.com/rob-derosa/github/issues/1)
 
 1. [About GitHub Copilot](https://docs.github.com/en/copilot/about-github-copilot)
 
