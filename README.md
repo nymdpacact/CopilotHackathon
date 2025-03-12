@@ -75,6 +75,8 @@ Install the Copilot Extension for you IDE:
 
 1. [Lots of Getting Started Resources](https://github.com/rob-derosa/github/issues/1)
 
+2. [Copilot Keyboard Shortcut cheat sheet](https://github.com/fiserv-copilot-workshop/CopilotHackathon/tree/main/Resources)
+
 1. [About GitHub Copilot](https://docs.github.com/en/copilot/about-github-copilot)
 
 2. [Getting started with GitHub Copilot](https://docs.github.com/en/copilot/using-github-copilot/getting-started-with-github-copilot)
