@@ -71,6 +71,20 @@ Install the Copilot Extension for you IDE:
 - [Behavior Driven Development (BDD) challenge](./challenges/bdd/README.md)
 - [Analysis cryptocurrency market](./challenges/cryptoanalisis/crypto.md)
 
+### Tips
+
+- use multi-line comments for additional details for Code Complete
+- be explicit with your requests
+- keep relevant files open in tabs
+- copy and paste terminal output when chatting
+- use slash commands like @workspace and @terminal to include additional context (type /help to get a list)
+- nudge Chat by referring to previous prompts and responses
+- use the Fix with Copilot feature for syntax errors
+- try a different model if you’re not getting the right response
+- use Code Review to review a method
+- add files/context to your chat prompt
+
+
 ## Quick Links
 
 1. [Lots of Getting Started Resources](https://github.com/rob-derosa/github/issues/1)
