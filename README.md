@@ -45,7 +45,7 @@ To start programming just start a new codespace and you are ready to go, don't n
 
 ### IDE Extensions
 
-Install the Copilot Extension for you IDE:
+Install the Copilot Extension for you IDE (these extensions should already be installed as part of your Codespace so no action needed, but helpful when using Copilot locally)
 
 - [Visual Studio Code Copilot Extension](https://docs.github.com/en/copilot/using-github-copilot/getting-code-suggestions-in-your-ide-with-github-copilot?tool=vscode)
 - [Visual Studio 2022 Copilot Extension](https://learn.microsoft.com/en-us/visualstudio/ide/visual-studio-github-copilot-extension?view=vs-2022)
