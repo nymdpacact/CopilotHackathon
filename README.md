@@ -105,3 +105,12 @@ Install the Copilot Extension for you IDE (these extensions should already be in
 6. [GitHub Copilot MS Learn Modules](https://learn.microsoft.com/en-us/training/browse/?terms=github%20copilot)
 
 7. [GitHub Copilot Certifications](https://resources.github.com/learn/certifications/)
+
+### Multi-Model Breakdown
+
+**Anthropic’s Claude 3.5 Sonnet** is designed to handle an extensive range of coding tasks, from initial design to maintenance, optimisations, and beyond. Its prowess is evident in managing complex and multi-step coding challenges, making it a robust option for dynamic software development requirements.
+
+**Gemini 2.0 Flash**, a Google AI model, is particularly useful for coding applications like generating code snippets, suggesting code fixes, explaining complex code concepts, and even assisting with debugging, thanks to its advanced reasoning capabilities and ability to understand complex prompts, making it a powerful tool for developers to enhance their coding efficiency and productivity; it can also integrate with existing coding environments to provide real-time assistance. 
+
+**OpenAI’s latest models, o1-preview and o1-mini**, surpass the capabilities of the current GPT 4o. These models boast enhanced reasoning abilities, providing a deeper understanding of code constraints and edge cases to produce efficient, high-quality results.
+
