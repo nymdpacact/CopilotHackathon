@@ -90,6 +90,8 @@ Install the Copilot Extension for you IDE (these extensions should already be in
 
 2. [Copilot Keyboard Shortcut cheat sheet](https://github.com/fiserv-copilot-workshop/CopilotHackathon/tree/main/Resources)
 
+3. [Prompt Engineering tips](https://docs.github.com/en/enterprise-cloud@latest/copilot/using-github-copilot/copilot-chat/prompt-engineering-for-copilot-chat)
+
 1. [About GitHub Copilot](https://docs.github.com/en/copilot/about-github-copilot)
 
 2. [Getting started with GitHub Copilot](https://docs.github.com/en/copilot/using-github-copilot/getting-started-with-github-copilot)
