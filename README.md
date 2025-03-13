@@ -10,7 +10,7 @@ Demo project for running labs to evaluate Copilot viability
 
 ## Goal
 
-The goal of a GitHub Copilot Hackathon is to learn how to use it, using a set of [exercises (labs)](#labs-instructions) that consist of building a web server using Nodejs with different functionalities, a .NET Web API or a Java Rest API (either Spring Boot or Quarkus).
+The goal of a GitHub Copilot Hackathon is to learn how to use it, using a set of [exercises (labs)](#labs-instructions) that consist of building a web server using Nodejs with different functionalities, a .NET Web API or a Java Rest API (Spring Boot).
 
 We have also set two exercises for data engineers and data scientists based on python.
 
@@ -58,7 +58,6 @@ Install the Copilot Extension for you IDE:
 - [Node Server Typescript](./exercisefiles/node_typescript/README.md)
 - [.NET Web API](./exercisefiles/dotnet/README.md)
 - [Java Spring Boot](./exercisefiles/springboot/README.md)
-- [Java Quarkus](./exercisefiles/quarkus/README.md)
 - [Python Data Engineer](./exercisefiles/dataengineer/README.md)
 - [Python Data Scientist](./exercisefiles/datascientist/README.md)
 - [C++](./exercisefiles/c++/README.md)
