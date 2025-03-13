@@ -92,6 +92,8 @@ Install the Copilot Extension for you IDE (these extensions should already be in
 
 3. [Prompt Engineering tips](https://docs.github.com/en/enterprise-cloud@latest/copilot/using-github-copilot/copilot-chat/prompt-engineering-for-copilot-chat)
 
+4. [Multi-model Use Cases](https://docs.github.com/en/copilot/using-github-copilot/ai-models/changing-the-ai-model-for-copilot-chat)
+
 1. [About GitHub Copilot](https://docs.github.com/en/copilot/about-github-copilot)
 
 2. [Getting started with GitHub Copilot](https://docs.github.com/en/copilot/using-github-copilot/getting-started-with-github-copilot)
