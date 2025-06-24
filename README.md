@@ -69,6 +69,7 @@ Install the Copilot Extension for you IDE (these extensions should already be in
 - [Develop a chat based on websockets](./challenges/chatwebsockets/chatwebsockets.md)
 - [Behavior Driven Development (BDD) challenge](./challenges/bdd/README.md)
 - [Analysis cryptocurrency market](./challenges/cryptoanalisis/crypto.md)
+- [Expense Tracker](./challenges/expensetracker/README.md)
 
 ### Tips
 
