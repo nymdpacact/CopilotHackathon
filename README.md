@@ -27,8 +27,9 @@ Remember:
 - Press **Ctrl + i** to start Copilot chat inline within your code. 
 
 ### Proctors
-- Rob (dotnet, springboot)
-- Venkat (python, jupyter)
+- Sam (dotnet, springboot)
+- Ben (Node, Typescript)
+- Manny (springboot, dataengineering, datascience)
 - Kevin (C++, Node)
 
 ## Pre-requisites
